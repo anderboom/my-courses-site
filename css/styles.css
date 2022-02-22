@@ -11044,8 +11044,7 @@ header.masthead .post-heading .meta a {
     text-align: center;
 }
 
-
-/* .post-preview>a {
+.post-preview>a {
     color: #212529;
 }
 
@@ -11081,7 +11080,7 @@ header.masthead .post-heading .meta a {
     .post-preview>a>.post-title {
         font-size: 2.25rem;
     }
-} */
+}
 
 .about-course {
     margin: 1em;
@@ -11105,4 +11104,17 @@ header.masthead .post-heading .meta a {
     opacity: 30%;
     background: none;
     background-image: url('../assets/up-button.png');
+}
+
+.program {
+    width: 80%;
+    text-align: center;
+    font-weight: normal;
+}
+
+.quantity {
+    width: 20%;
+    text-align: center;
+    vertical-align: 30%;
+    font-weight: normal;
 }
