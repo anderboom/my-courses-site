@@ -11099,7 +11099,7 @@ header.masthead .post-heading .meta a {
     position: fixed;
     width: 60px;
     height: 60px;
-    right: 50px;
+    right: 5%;
     border: none;
     opacity: 30%;
     background: none;
@@ -11109,11 +11109,9 @@ header.masthead .post-heading .meta a {
 .program {
     width: 80%;
     text-align: center;
-    font-weight: normal;
 }
 
 .quantity {
     width: 20%;
     text-align: center;
-    font-weight: normal;
 }
